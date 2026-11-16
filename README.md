@@ -2,6 +2,8 @@
 
 Searchable memory for your notes and AI coding sessions. Local SQLite storage, source links, and optional AI summaries. Python standard library only.
 
+**Credit:** This project is based on [Nick Saraev's](https://nicksaraev.com/) teachings on knowledge bases and AI workflows. Credit goes to Nick for the approach and inspiration behind this project.
+
 ## What it is, and why
 
 An AI assistant starts a new conversation without a reliable record of your past work. Useful decisions, fixes, and context remain in old sessions and files. You repeat explanations, or the assistant guesses.
